@@ -55,7 +55,7 @@ Pour changer de PC : **Paramètres → Base de données → Exporter**, puis **I
 
 ## 🔐 Sécurité
 
-Vous pensez avoir trouvé une faille de sécurité ? Ne la décrivez pas dans une issue publique : prévenez directement le bureau de l'association, qui transmettra au développeur.
+Vous pensez avoir trouvé une faille de sécurité ? Ne la décrivez pas dans une issue publique : utilisez le [signalement privé de faille](https://github.com/La-Taverne-du-TCG/app.releases/security/advisories/new) de ce dépôt (compte GitHub requis), ou prévenez directement le bureau de l'association.
 
 ---
 
