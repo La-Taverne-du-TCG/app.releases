@@ -49,13 +49,13 @@ Le détail de chaque version est dans les notes des [Releases](https://github.co
 
 ## 💾 Où sont mes données ?
 
-Dans `%APPDATA%\asso.ltt.tcgapp\` : la base de l'application et le dossier `sauvegardes-auto`. Désinstaller l'application **ne supprime pas** ces données.
+Dans `%APPDATA%\asso.ltt.tcgapp\` : la base de l'application et le dossier `sauvegardes-auto`. Désinstaller l'application **conserve** ces données, sauf si vous cochez la case de suppression des données pendant la désinstallation.
 
 Pour changer de PC : **Paramètres → Base de données → Exporter**, puis **Importer** le fichier `.taverne` sur le nouveau poste.
 
 ## 🔐 Sécurité
 
-Vous pensez avoir trouvé une faille de sécurité ? Ne l'exposez pas dans une issue publique : utilisez le [signalement privé de vulnérabilité](https://github.com/La-Taverne-du-TCG/app.releases/security/advisories/new) de ce dépôt.
+Vous pensez avoir trouvé une faille de sécurité ? Ne la décrivez pas dans une issue publique : prévenez directement le bureau de l'association, qui transmettra au développeur.
 
 ---
 
